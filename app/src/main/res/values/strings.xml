@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Content Provider Demo</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="show_all_the_birthdays">show all the birthdays</string>
+    <string name="delete_all_the_birthdays">delete all the birthdays</string>
+    <string name="add_a_new_birthday">Add a new birthday</string>
+</resources>
